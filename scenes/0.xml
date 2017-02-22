@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="7" extheight="1088" extwidth="1088" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="85.0" height="1024" id="0" name="main scene" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="1024">
+    <layers>
+        <grad-bg b1="153" b2="255" g1="0" g2="102" r1="153" r2="0"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="0" id="3" name="Noni 1" sx="1.0" sy="1.0" x="1" y="449" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="4" id="5" name="Clown 2" sx="1.0" sy="1.0" x="120" y="413" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="4" id="5" name="Clown 3" sx="1.0" sy="1.0" x="736" y="416" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="4" id="5" name="Clown 4" sx="1.0" sy="1.0" x="448" y="416" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain>
+        <p pts="4,160.0,0.0,160.0,32.0,0.0,32.0,0.0,0.0" x="672.0" y="480.0"/>
+        <p pts="8,160.0,64.0,160.0,32.0,192.0,32.0,192.0,0.0,256.0,0.0,256.0,96.0,0.0,96.0,0.0,64.0" x="0.0" y="416.0"/>
+        <p pts="18,320.0,0.0,320.0,160.0,352.0,160.0,352.0,192.0,0.0,192.0,0.0,160.0,32.0,160.0,32.0,128.0,64.0,128.0,64.0,160.0,224.0,160.0,224.0,128.0,96.0,128.0,96.0,96.0,160.0,96.0,160.0,64.0,224.0,64.0,224.0,0.0" x="288.0" y="320.0"/>
+    </terrain>
+    <atlases members="0,1,2,3," retainAtlases="false"/>
+</scene>
